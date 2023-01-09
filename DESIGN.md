@@ -1,3 +1,4 @@
+# FlappyTurd's Design Documentation
 
 To support the features we wanted to include in this game while staying true to the goals we wanted to achieve, we decided to use Apple’s own IDE, XCode, in order to develop this program. XCode fully supports Swift and frameworks such as SpriteKit. Specifically, SpriteKit comes with multiple pre-written capabilities, allowing us to reference a library of commands to execute our vision. SpriteKit was the framework used to implement almost all of our actions, objects, etc. Every time you see “SK___”, it means that we are using SpriteKit to help us perform an action, texture, node, etc. Specifically, when we declare all our movement variables under the GameScene class, each of our variables are defined as SpriteKit nodes, Sprites, textures, or actions.
 
