@@ -1,4 +1,4 @@
-# flappyturd
+# FlappyTurd -- by Melody Cao and Kevin Gu for CS50 Final Project Fall 2022
 
 Ever heard of the once-viral game “Flappy Bird” developed in 2014 by video game programmer Dong Nguyen? In this hit game, you are a small, yellow bird who perpetually flaps through pairs of mario-esque pipes in order to survive. Unfortunately, this app was only available on the Apple app store for a few months as the designer considered the game to be too addictive, causing users to spend too much time on the game. 
 
